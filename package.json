@@ -1,9 +1,9 @@
 {
-  "name": "be.snake0803.romainctoolbox",
-  "displayName": "RomainC ToolBox",
+  "name": "be.eloistree.romaincreditsystem",
+  "displayName": "Romain Credit System",
   "version": "0.0.1",
   "unity": "2018.1",
-  "description": "You package description",
+  "description": "Tool that Romain created to display credit in the game.",
   "keywords": ["Script","Tool"],
   "category": "Script",
   "dependencies":{}
